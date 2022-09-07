@@ -2,7 +2,7 @@
 
 
 읽은 책 목록
-- Java 언얼 배우는 디자인 패턴 입문
+- Java 언어로 배우는 디자인 패턴 입문
 - 실용주의 프로그래머
 - JVM performing Optimizing 및 성능 사례
 - 심플 소프트웨어
